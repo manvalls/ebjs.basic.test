@@ -1,6 +1,6 @@
 {
   "name": "ebjs.basic.test",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Test for ebjs.basic",
   "main": "main.js",
   "dependencies": {
