@@ -6,6 +6,7 @@
   "dependencies": {
     "ebjs": "",
     "ebjs.basic": "",
+    "ebjs.common-test": "",
     "vz.test": ""
   },
   "repository": {
