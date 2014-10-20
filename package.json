@@ -7,7 +7,8 @@
     "ebjs": "",
     "ebjs.basic": "",
     "ebjs.common-test": "",
-    "vz.test": ""
+    "vz.test": "",
+    "vz.walk": ""
   },
   "repository": {
     "type": "git",
