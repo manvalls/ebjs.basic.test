@@ -2,13 +2,7 @@
   "name": "ebjs.basic.test",
   "version": "2.0.1",
   "description": "Test for ebjs.basic",
-  "main": "main.js",
   "dependencies": {
-    "ebjs": "",
-    "ebjs.basic": "",
-    "ebjs.common-test": "",
-    "vz.test": "",
-    "vz.walk": ""
   },
   "repository": {
     "type": "git",
